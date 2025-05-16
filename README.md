@@ -19,5 +19,7 @@ Research Institute
 
 dataset used for the project: https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 
+note: The journal paper discussed four algorithms(Random forest, logistic regression, Decision Tree, SVM), whereas the project added the Gradient Boosting algorithm for detailed comparison and efficient goal. 
+
 
 
